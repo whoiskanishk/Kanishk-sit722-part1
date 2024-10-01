@@ -4,11 +4,6 @@
 
 Our University Library is a cornerstone of academic resources, aims to enhance accessibility to educational materials through an advanced online platform. You has been asked to develop a cloud-native microservices architecture to support the library's diverse user base and streamline deployment processes. This project is divided into 5 parts as follows:
 
-<style type="text/css">
-  .highlight {
-    background-color: black;
-  }
-</style>
 
 <table>
     <tr>
