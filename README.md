@@ -48,13 +48,13 @@ In this part of the project, you will integrate PostgreSQL to persist book data,
 ### Steps
 
 1. Downlaod code from the __Task Resources__ and unzip.
-2. Create a github repository named : `<your-name-sit722-part1>`.
+2. Create a github repository named : `Kanishk-sit722-part1>`.
 3. Add given code to a github repository (local first then push to the remote repo).
 4. Create account on [Render](http://render.com/) using GitHub if you dont have one yet.
 5. Create PostgreSQL database instance on [Render](http://render.com/).
 6. Once database is created, copy the __External Database URL__ in notepad for future use.
 7. Create new `WebService` and Deploy your microservice on [Render](http://render.com/) with following settings:
-   * Name: <STUDENT_ID>_SIT722_PART1
+   * Name: s222514075_SIT722_PART1
    * Root Directory: `app`
    * Build Command: `pip install -r requirements.txt`
    * Start command: `uvicorn main:app --host 0.0.0.0 --port $PORT`
